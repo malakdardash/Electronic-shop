@@ -1,0 +1,20 @@
+nav a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #950086 !important;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-top: 40px;
+    background-color: rgb(212, 212, 212);
+}
+.section{
+   background-color: #950086;
+}
+.TEXT{
+    color: #950086;
+}

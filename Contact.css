@@ -1,0 +1,19 @@
+nav a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #950086 !important;
+}
+header{
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.166);
+}
+.text-color{
+    color: #950086;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-top: 40px;
+    background-color: rgb(212, 212, 212);
+}
